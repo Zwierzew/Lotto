@@ -1,5 +1,5 @@
 package lotto;
-/*
+/**
 Zadanie dodatkowe (wykorzystujące generalnie wiedzę dotychczas poznaną, niekoniecznie exceptions):
 
 Napisz klasę realizującą system lotto.
